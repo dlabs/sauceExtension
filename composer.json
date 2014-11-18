@@ -7,6 +7,12 @@
     "keywords": ["codeception", "saucelabs", "selenium"],
     "authors": [
         {
+            "name": "psychomieze",
+            "email": "mail@susanne-moog.de",
+            "homepage": "https://github.com/psychomieze",
+            "role": "Developer"
+        },
+        {
             "name": "dlabs",
             "email": "info@dlabs.si",
             "homepage": "https://github.com/dlabs",
