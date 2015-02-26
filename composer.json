@@ -3,6 +3,7 @@
     "description": "Codeception extension to support automated testing via sauce labs.",
     "license": "GPL-3.0",
     "type": "codeception-extension",
+    "minimum-stability": "dev",
     "keywords": ["codeception", "saucelabs", "selenium"],
     "authors": [
         {
@@ -23,7 +24,7 @@
         "sauce/sausage": "~0.11"
     },
     "require-dev": {
-        "codeception/codeception": "~2.0"
+        "codeception/codeception": "2.*"
     },
     "autoload": {
         "psr-4": {
